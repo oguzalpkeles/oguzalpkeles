@@ -5,9 +5,9 @@ About Me
 What I'm Learning
 🌱 I'm currently expanding my knowledge in:
 
-C: Exploring the fundamentals of procedural programming and low-level system interactions.
-C++, Java: Diving into object-oriented programming concepts and mastering data structures and algorithms.
+C: Exploring the fundamentals of procedural programming and low-level system interactions.                                                                                              
+C++, Java: Diving into object-oriented programming concepts and mastering data structures and algorithms.  
 
-How You Can Reach Me
-📧 You can reach me via email at oalpkeles@gmail.com.
+How You Can Reach Me  
+📧 You can reach me via email at oalpkeles@gmail.com.  
 📫 Feel free to connect with me on LinkedIn [www.linkedin.com/in/oğuzalpkeleş](https://www.linkedin.com/in/oğuzalpkeleş/) if you'd like to discuss collaborations, projects, or just chat about tech and programming!
